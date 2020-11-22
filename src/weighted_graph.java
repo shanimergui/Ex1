@@ -1,4 +1,3 @@
-package ex1;
 import java.util.Collection;
 
 /**
@@ -92,4 +91,6 @@ public interface weighted_graph {
      * @return
      */
     public int getMC();
+
+
 }
